@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-31 14:23:31" Modified_Date="2017-06-02 12:37:52" Creator="mrichardson" Comments="" ID="67d64e782d82e846af6e00aba60d48ca">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-31 14:23:31" Modified_Date="2017-06-05 10:45:51" Creator="mrichardson" Comments="" ID="8ab7286ac04b4677e0dfd7ac4b457c80">
   <Library_General_Settings>
     <Package_File_Name>MSR_Consulting_LLC_lib_ConfigurableDevice</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Configurable Device</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -40,7 +40,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\MSR Consulting, LLC\Configurable Device</Path>
+        <Path>&lt;vi.lib&gt;\MSR Consulting, LLC\Devices\Configurable Device</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -431,7 +431,7 @@
         <Path>..\Configurable Device\Write Log Session.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D1DDD3BC58D90C722F4C8F3FDAA41AB9</GUID>
+      <GUID>9C5F72832BA95E1FFEEA83525F9FFEA3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -662,7 +662,7 @@
         <Path>..\Configurable Device\Accessors\Write Write Type.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F70BE8431D6FD2C07A743033D03EE0E7</GUID>
+      <GUID>95238229000F3BC717F3FCD62B07987C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

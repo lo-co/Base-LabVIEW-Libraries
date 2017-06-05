@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-02 13:13:32" Modified_Date="2017-06-02 13:17:44" Creator="mrichardson" Comments="" ID="7ab6b663a2e38357bb6d37e19ebf1d57">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-02 13:13:32" Modified_Date="2017-06-05 10:47:45" Creator="mrichardson" Comments="" ID="b15cf92c8d34398b4dde5df1488f9f8f">
   <Library_General_Settings>
     <Package_File_Name>MSR_Consulting_LLC_lib_DAQ_Device</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\DAQ Device</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -42,7 +42,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;vi.lib&gt;\MSR Consulting, LLC\Devices\DAQ Device</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -110,9 +110,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -226,7 +223,7 @@
         <Path>..\DAQ Device\Messages</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90F118E05DC9C4B6B96D11463D3ACCAC</GUID>
+      <GUID>CFEB9F13BDF2C38FB46F1077C49B496A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -499,7 +496,7 @@
         <Path>..\DAQ Device\Device\Write Update Period.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B52333D597151AA10419452A31AC5CF8</GUID>
+      <GUID>084ED5B8467E05CF813368ECFDBCCC1B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -562,7 +559,7 @@
         <Path>..\DAQ Device\Messages\Send New Setpoint MSG</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A03657082431CAC9F58F73F00DC15F7D</GUID>
+      <GUID>57B9EDDB82ACE177313607D31923C0D1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -639,7 +636,7 @@
         <Path>..\DAQ Device\Device\Generic Data Update Data MSG\Write ID.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4990F283E7CE946FE66C9F86E33EF10E</GUID>
+      <GUID>AEEA4ED68B5B3EC7535663E0F80B3145</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -674,7 +671,7 @@
         <Path>..\DAQ Device\Device\Get Device Data MSG\Do.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DEAD4A06560E60C0E2D71A0F479B61E4</GUID>
+      <GUID>C5E960DC06FC5E43E874F9014F638259</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -723,7 +720,7 @@
         <Path>..\DAQ Device\Messages\Device Configuration\Write cfg cluster.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>10EE1E569C888430D46E0BED70436CC2</GUID>
+      <GUID>378143613F29DB25F408632EA2E4D8FA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -800,7 +797,7 @@
         <Path>..\DAQ Device\Messages\Generic CVT Init\Write SP.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6BEF5DB1E08DA2EF31A4877FC9F3AC37</GUID>
+      <GUID>8C92D64F32F6BD52C6B63270A3ED97B3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -849,7 +846,7 @@
         <Path>..\DAQ Device\Messages\Send New Setpoint MSG\Write Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>92967C2600BDF96B0984C34B19281161</GUID>
+      <GUID>1B8DB27DD4C63F2E7F788791BB828953</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

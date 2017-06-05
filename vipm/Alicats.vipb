@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-02 13:28:48" Modified_Date="2017-06-02 13:40:04" Creator="mrichardson" Comments="" ID="bb348de2cb319a5d68d61022a5d70c99">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-06-02 13:28:48" Modified_Date="2017-06-05 10:44:31" Creator="mrichardson" Comments="" ID="392c834dcab2c659fc5f8a7e0675e5c7">
   <Library_General_Settings>
     <Package_File_Name>MSR_Consulting_LLC_lib_Alicats</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Alicat</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -41,7 +41,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\MSR Consulting, LLC\Alicats\Devices</Path>
+        <Path>&lt;vi.lib&gt;\MSR Consulting, LLC\Devices\Alicats</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
@@ -109,9 +109,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -393,7 +390,7 @@
         <Path>..\Alicat\Write Setpoint.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C97AD43035291C56A526CF971A72A68</GUID>
+      <GUID>F31C6D3181389813A39EA6B10945EA33</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -526,7 +523,7 @@
         <Path>..\Alicat\Accessors\Write Session Handle.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F61824739E1F587C71A899B07FEFF7AF</GUID>
+      <GUID>20103E776F40DCCB0E4135EB94DD0AEA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -589,7 +586,7 @@
         <Path>..\Alicat\Change Setpoint Message\Write SP.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C26DB3FEFA865584419F11E5F8D478E8</GUID>
+      <GUID>B3525E028899BE1F1CB8E6D271FEB3AD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -750,7 +747,7 @@
         <Path>..\Alicat\Data\Write Alicat ype.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B1685A46276696572746BBB26A35B032</GUID>
+      <GUID>42962ABE82727952A43D99C10F867864</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -827,7 +824,7 @@
         <Path>..\Alicat\Data\Accessors\Write ID.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>444E6F3044172B0273A7FDC6F4C20D66</GUID>
+      <GUID>80FA16A2015C1EF67EDDF1FBD6A3883C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -918,7 +915,7 @@
         <Path>..\Alicat\Data\M\Serialize - Text.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0625E00C45B0A37AE4F3F472AF1A34BD</GUID>
+      <GUID>DE567852BD8C264B5F59832AEF43AE2A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1009,7 +1006,7 @@
         <Path>..\Alicat\Data\MC\Serialize - Text.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>71E163FAC29C0CA8C9468C171E317DA4</GUID>
+      <GUID>8F4DA75568571420A35FEB41D2A663B9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1058,7 +1055,7 @@
         <Path>..\Alicat\Data\VC\Package Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>234C40F02508E168DD3E4AE080DF4585</GUID>
+      <GUID>222FE289370ADEAE183D22817AAFCDB9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1135,7 +1132,7 @@
         <Path>..\Alicat\Data\M\Accessors\Read T.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF7259EFEA618FC6A4B71DD44DFC6FD0</GUID>
+      <GUID>E098B9947AD64EC149DEA0E7DFA3F15C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1296,7 +1293,7 @@
         <Path>..\Alicat\Data\MC\Accessors\Write T.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>320685BCC0A2D83162E94E12F45E96ED</GUID>
+      <GUID>0698A41173EB120714CB4C881F662BF0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -1373,7 +1370,7 @@
         <Path>..\Alicat\Data\VC\Accessors\Write Qsp.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC8605DFE1DD769AF3B315060A551AA1</GUID>
+      <GUID>83FA36B8A8369A6DBC429216836DEF85</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

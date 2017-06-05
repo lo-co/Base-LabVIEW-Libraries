@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-31 12:37:50" Modified_Date="2017-05-31 14:13:55" Creator="mrichardson" Comments="" ID="27b76cc05ec17eb2cbb17f9af4d04607">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-05-31 12:37:50" Modified_Date="2017-06-05 15:12:20" Creator="mrichardson" Comments="" ID="04668af07836e79f0517f464a94777f1">
   <Library_General_Settings>
     <Package_File_Name>MSR_Consulting_LLC_lib_General_Reuse</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Reusable</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -112,9 +112,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -326,7 +323,7 @@
         <Path>..\Reusable\Switch</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0A92EF390966F28D12C1CA286ED85639</GUID>
+      <GUID>2391251EE0B55B86C60EDDE495DC263A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -389,7 +386,7 @@
         <Path>..\Reusable\CRDS\Main</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6CE3FBB9604D5D64F2A4D6D13EC5220A</GUID>
+      <GUID>2029100497143EE590BFEB57D6AEE01B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -648,7 +645,7 @@
         <Path>..\Reusable\Data\Write write time.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E96CDE4D4BB09A2EEFF5A9636C3EE5AE</GUID>
+      <GUID>91A84AEFDD3AB8A0A657F1E91472C891</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -781,7 +778,7 @@
         <Path>..\Reusable\General\Remove Null Characters.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6E5392C5D33727741DF927837A01FB1F</GUID>
+      <GUID>ECFB5985A39592C1D94C0B76F3F0919A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1292,7 +1289,7 @@
         <Path>..\Reusable\Instrument\Write Restart Requested_.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>239A69446A63148101295B7B0603ABEA</GUID>
+      <GUID>D6B2D0BC2938F2F4E4C627EF30AC9C99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1369,7 +1366,7 @@
         <Path>..\Reusable\PAS\Utilities</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ADA745416919A499AA3EB9F1710DE580</GUID>
+      <GUID>3DE6DC4EED11A160AFDA6433DE17F872</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1418,7 +1415,7 @@
         <Path>..\Reusable\Sequence\STEPS</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2749FEE517BCFCC27BFE3DCE84630083</GUID>
+      <GUID>8E725F4542B2BB71888CF327EAFE135F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1495,7 +1492,7 @@
         <Path>..\Reusable\Session APIs\Session Log</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>30B42E753BF5828453FE45B3D5DF103A</GUID>
+      <GUID>2D01B0E82A590E28B28760DC8BD7FCAF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1698,7 +1695,7 @@
         <Path>..\Reusable\SuperActor\xGlobal Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A5174BC40273297E0C9403D9F8DD5B53</GUID>
+      <GUID>ACFF086AEF67DDF6E011E2129910675A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1887,7 +1884,7 @@
         <Path>..\Reusable\Switch\Write t0.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A5E97A7DA1223C50554612AC72EF2810</GUID>
+      <GUID>7622D1BD049EC63AA839EB53F3F2E579</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2342,7 +2339,7 @@
         <Path>..\Reusable\CRDS\Cell\Write tau_0.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F725A0FF72D651BA7243FE873154294A</GUID>
+      <GUID>4087ACF7CA70B9BE1766ADA435A21F3E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2391,7 +2388,7 @@
         <Path>..\Reusable\CRDS\Data\Main</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4F59C54377B471FC720CEC37F71A0996</GUID>
+      <GUID>D0F4DE7E006A79AA5EF007896A2F7DF9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2580,7 +2577,7 @@
         <Path>..\Reusable\CRDS\Main\Write Qpurge.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2FC88D53A02270711F65F815C03FC87C</GUID>
+      <GUID>DB1C95FF11DBC028F23517B1248ADE9C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -2881,7 +2878,7 @@
         <Path>..\Reusable\CRDS\Data\Cell\Write Write RD_.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1469EE1350F7489E3276D705D9A9F0C3</GUID>
+      <GUID>4645DE888FD37463BC61CCD7459236A5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -3000,7 +2997,7 @@
         <Path>..\Reusable\CRDS\Data\Main\Write filter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DC67141E4237C59216E69F5101F7CC37</GUID>
+      <GUID>D263DF036403F781D392E2DB17DDC5DA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3063,7 +3060,7 @@
         <Path>..\Reusable\Data\Array Data\Single 1-D</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B9F884C0392B394DC7BEA01D9AFB521</GUID>
+      <GUID>9F45FC1CAE3F1D250FBF05996D2224A0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3112,7 +3109,7 @@
         <Path>..\Reusable\Data\Boolean\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>94F4C35ADDCB3F3EA6DBA6C0FE8C9688</GUID>
+      <GUID>21140D0958055E48951CBBBE299AF8C5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3161,7 +3158,7 @@
         <Path>..\Reusable\Data\Double\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B5FA725489EA3829910DDD962D0AFACC</GUID>
+      <GUID>2CFF5643AF8EC8E1F5517E2EC1B2C9E1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3210,7 +3207,7 @@
         <Path>..\Reusable\Data\Single\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C6D15F14C2B37DF6FDB86AE35C9A4E8C</GUID>
+      <GUID>63F6A34C004465C3F6E072BCFF0C8808</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3259,7 +3256,7 @@
         <Path>..\Reusable\Data\String\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D221256AB55B03331611035A72C05369</GUID>
+      <GUID>28B1B35FAFFF12B41DBA8D969898CEA9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3308,7 +3305,7 @@
         <Path>..\Reusable\Data\String Data\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D55EF71C1834418F2576643497F6FFB3</GUID>
+      <GUID>9D0096C128394287F785EF6FBB2B9854</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3357,7 +3354,7 @@
         <Path>..\Reusable\Data\U16\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8C0779C2D0076A67887C9F7CE16A7334</GUID>
+      <GUID>08E838A0E0602379BFEB36EBB18BC8FF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3406,7 +3403,7 @@
         <Path>..\Reusable\Data\Waveform\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B3F89039D26FA5430A1E531BAF80C890</GUID>
+      <GUID>6CAD6995D812593A9B8B142BC879F6E2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -3469,7 +3466,7 @@
         <Path>..\Reusable\Data\Array Data\2D Single\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>79249023288A4C4C38C8A7588FD1C409</GUID>
+      <GUID>87055FF74630BBF67AE893DD96B2793E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -3518,7 +3515,7 @@
         <Path>..\Reusable\Data\Array Data\Double 1-D\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>76958C485CAD37968BFBADF43D6044CF</GUID>
+      <GUID>6A738A57E57D3EC9821FBCDB741FF61C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -3637,7 +3634,7 @@
         <Path>..\Reusable\Data\Array Data\Single 1-D\Write Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>85F5338B5406DF6586E2ABF040586081</GUID>
+      <GUID>41329973F094A09244515888C6169551</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3812,7 +3809,7 @@
         <Path>..\Reusable\General\Atmospheric\SolveMurphKoop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>22FF5B3951372FBFB4EA682FF8E2A880</GUID>
+      <GUID>65B2E1E67C23E67C3A6E0A0B263C8287</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3959,7 +3956,7 @@
         <Path>..\Reusable\General\Math\Lorentzian Curve Fit.vit</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>35508D980D468FE8FF67EC3E6980E574</GUID>
+      <GUID>912319C5AE20055F8DF4450FB077D837</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -3994,7 +3991,7 @@
         <Path>..\Reusable\General\String Utilities\Retrieve Numeric String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC5552E2F61A0C9B0C16F75CE51B0C27</GUID>
+      <GUID>D3E2D1773D2E333C8E04895622316961</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -4211,7 +4208,7 @@
         <Path>..\Reusable\General\Temperature\Tthermistor Vdc.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>355B84377E9E2E16EF4D93A179246C82</GUID>
+      <GUID>791C7DB4621289BB27329DF416A75045</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -4442,7 +4439,7 @@
         <Path>..\Reusable\General\Math\Fit Exponential Class\Write Output.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>159980DF4C531B96FF4B5F8FD629544A</GUID>
+      <GUID>FD68C4D157303E6D491C9CFD7A3B2634</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>30</Parent_Palette_Index>
@@ -4505,7 +4502,7 @@
         <Path>..\Reusable\General\Math\Fit Exponential Class\Children\LRS</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A2F5906BF8978844CAD770CFE01CB130</GUID>
+      <GUID>2553BA654FEE54F04F64363D5E851BB3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>31</Parent_Palette_Index>
@@ -4582,7 +4579,7 @@
         <Path>..\Reusable\General\Math\Fit Exponential Class\Children\DFT1\Read Sin.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E965DC4E08F2AFFC6CE9815EF002D84B</GUID>
+      <GUID>7C4E4359E1F3B7537EDD9DBBC5BBA847</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>31</Parent_Palette_Index>
@@ -4687,7 +4684,7 @@
         <Path>..\Reusable\General\Math\Fit Exponential Class\Children\DFT5\Read Weights.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F972EA0AFC77966F156D7828B2F31AF3</GUID>
+      <GUID>A68B15EB3B248CD7423959D0AC32C457</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>31</Parent_Palette_Index>
@@ -4778,7 +4775,7 @@
         <Path>..\Reusable\General\Math\Fit Exponential Class\Children\LRS\Read Stt.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7139F18CD5E27F8C763FD9CCEBA247C4</GUID>
+      <GUID>0BE51F2A45335D14FF6F9FA7EE6F10C0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -4827,7 +4824,7 @@
         <Path>..\Reusable\PAS\Cell\Write extParams.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EE31F76FE3DA8D39DE5341B984BF984F</GUID>
+      <GUID>E18BFB3BFAFA4181F473FC1A0240B5B9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -4876,7 +4873,7 @@
         <Path>..\Reusable\PAS\Data\Main</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3FA5653780E12BC514F8885D4EA53F0B</GUID>
+      <GUID>E2D5F8FDDC97659B64E7DB098FE26B8D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -5065,7 +5062,7 @@
         <Path>..\Reusable\PAS\Main\Write Speaker Reference.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D621C05ED6429E620EB9DFA312ABFCF</GUID>
+      <GUID>07B99969052E01E89E9C732FF8022E0E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -5114,7 +5111,7 @@
         <Path>..\Reusable\PAS\Utilities\Tophat Init LUT.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6B577473FE6EBB0FE91D6CAB6015D9F</GUID>
+      <GUID>6A9948D567D7D988481025E85D5A700D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -5653,7 +5650,7 @@
         <Path>..\Reusable\PAS\Data\Cell\Write timeData.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>894DFFDDB7A0DC2F7217C5E40E17E467</GUID>
+      <GUID>8837C25BE6704DBC6D68208A19DD631F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -5996,7 +5993,7 @@
         <Path>..\Reusable\PAS\Data\Main\Write switchTime.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BFB012A76FFD1874A995B90E7C51D69A</GUID>
+      <GUID>5ECCF1710A53A2CB4DF2FBDC1A833513</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6171,7 +6168,7 @@
         <Path>..\Reusable\Sequence\SEQ\Write MSG Queue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>278D9167109939FEB2215EADFA9FC8C0</GUID>
+      <GUID>FF5A45B8E11DD097C0A9E5D63B0BD2DA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -6290,7 +6287,7 @@
         <Path>..\Reusable\Sequence\STEPS\Write Obj.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F2D9AE9C699E9A92BF5ABC97315BD1AD</GUID>
+      <GUID>6031805FD02CEA25967573B06A606ABA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>42</Parent_Palette_Index>
@@ -6339,7 +6336,7 @@
         <Path>..\Reusable\Sequence\STEPS\LEAVES\Switch</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>643AC50FF33FC5FB4749A0FEE5F0A2F5</GUID>
+      <GUID>8D5154F436D7A2EE36DD9C1FDF8927A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>43</Parent_Palette_Index>
@@ -6402,7 +6399,7 @@
         <Path>..\Reusable\Sequence\STEPS\LEAVES\Double\Write val.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8583445630285B3672744EDA78A6098E</GUID>
+      <GUID>68CAB6F20A96B742A12187105F5E017B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>43</Parent_Palette_Index>
@@ -6479,7 +6476,7 @@
         <Path>..\Reusable\Sequence\STEPS\LEAVES\Switch\Write Position.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B3ADED9A4CE95DC001961CCA19F1C5E5</GUID>
+      <GUID>E617A511EAA1B410BB6C99F424B1B31B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -6612,7 +6609,7 @@
         <Path>..\Reusable\Session APIs\CVT\Write CVT.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C9486CFCFE44C571E2B269BF1C0B757D</GUID>
+      <GUID>C14D46095E5B706C472CD179477F6B1B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -6647,7 +6644,7 @@
         <Path>..\Reusable\Session APIs\File Access\Config Data</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3AF3C2E943D6A4D898D27E9929C880AB</GUID>
+      <GUID>EC0B44B07AF17444784A84A4C5393FE9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -6696,7 +6693,7 @@
         <Path>..\Reusable\Session APIs\Serial\Public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D71DDBD5911397AEC602CF9F5C426636</GUID>
+      <GUID>D62E49F2507A9FD628028C3D1EBFB7EB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -6815,7 +6812,7 @@
         <Path>..\Reusable\Session APIs\Session Log\Read Log Warnings_.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C22F4E8941070444662C91EE8BA92140</GUID>
+      <GUID>8596A3A9CAB2F4EBF52381AC34286A32</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>47</Parent_Palette_Index>
@@ -6878,7 +6875,7 @@
         <Path>..\Reusable\Session APIs\File Access\Config Data\Read Array</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D499B700B1EF2724639F0791F059A22E</GUID>
+      <GUID>BBB5293D21E0D1F919D04207D9BD1FE4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>50</Parent_Palette_Index>
@@ -7039,7 +7036,7 @@
         <Path>..\Reusable\Session APIs\File Access\Config Data\Accessors\Write Ref.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>12A7BC8FD1C132C6A16DCA48BBCA9C0F</GUID>
+      <GUID>0EA5A203AB8A4CACC758981E3F30DDB6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>50</Parent_Palette_Index>
@@ -7088,7 +7085,7 @@
         <Path>..\Reusable\Session APIs\File Access\Config Data\Overrides\initialize Session Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DC714D3D35EAA87F5DDE7648307A3882</GUID>
+      <GUID>4D8FC4C042879537D632D54DCEDE4AEF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>50</Parent_Palette_Index>
@@ -7165,7 +7162,7 @@
         <Path>..\Reusable\Session APIs\File Access\Config Data\Read Array\Read String Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2DED84122086D54446956ADA18DCD2F</GUID>
+      <GUID>EA0D34CD3D8512FA87D2043E42281676</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>48</Parent_Palette_Index>
@@ -7200,7 +7197,7 @@
         <Path>..\Reusable\Session APIs\Serial\Overrides\clear Session Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C51F0214B1C956D458753F137E884BF2</GUID>
+      <GUID>04EFC68F5F4232539B4F6E88286ACEB9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>48</Parent_Palette_Index>
@@ -7417,7 +7414,7 @@
         <Path>..\Reusable\Session APIs\Serial\Public\Synchronous Write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1776A6727C8C4A57E7900D36899968E8</GUID>
+      <GUID>1D2F2CCE648468E9E2605B81EDEEBC00</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>55</Parent_Palette_Index>
@@ -7508,7 +7505,7 @@
         <Path>..\Reusable\Session APIs\Serial\Public\Accessors\Write WaitParams.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8845446B71C4F089B01E2C5B52F74C80</GUID>
+      <GUID>4B541A49552D7B72DFAB7AB63FB95C06</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>55</Parent_Palette_Index>
@@ -7585,7 +7582,7 @@
         <Path>..\Reusable\Session APIs\Serial\Public\Get Data\Get String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>042CAA07A59E99DF5708EF7DE23DAF6D</GUID>
+      <GUID>2975C37796C203E74AE71DE0F9C387CB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>49</Parent_Palette_Index>
@@ -7718,7 +7715,7 @@
         <Path>..\Reusable\Session APIs\Session Log\Accessors\Write Main Path.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>622774460B7A25A1875DC890D550812C</GUID>
+      <GUID>DD457C90CA2CC65F2ED25EAF4EDA03BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>49</Parent_Palette_Index>
@@ -7767,7 +7764,7 @@
         <Path>..\Reusable\Session APIs\Session Log\Overrides\initialize Session Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA60352D7161F19DC7C2576978F4604F</GUID>
+      <GUID>74C93C6DE6C530EFCE0A1DDAE5433FF1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
